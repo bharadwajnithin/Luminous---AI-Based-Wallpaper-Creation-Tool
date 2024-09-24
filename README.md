@@ -7,4 +7,5 @@
 python -m spacy download en_core_web_sm
 
 2.pip install streamlit
+
 3.streamlit run streamlit_app.py
